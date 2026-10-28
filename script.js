@@ -8,7 +8,7 @@ var input = document.getElementById('tela'),
 // adiconando evento de clique nos botões dos numeros
 for (var i = 0; i < numero.length; i++) {
   numero[i].addEventListener("click", function(e) {
-
+    //momentario aleatorio 10/10
     // variaveis do texto na tela e o ultimo caractere 
     var textoNaTela = input.innerHTML;
     var ultimoChar = textoNaTela[textoNaTela.length - 1];
