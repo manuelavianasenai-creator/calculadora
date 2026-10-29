@@ -18,6 +18,9 @@ Atividade botao :
                     </button>
                 </section>
 </div>
+
+<br>
+
  <section class="metrics-grid" aria-label="Resumo do sistema">
                     <article class="metric-card">
                         <div class="metric-top"><span class="metric-label">Total de máquinas</span><span class="metric-icon icon-blue">⚙</span></div>
