@@ -32,7 +32,14 @@ body {
     transition: transform 0,1s ease, background-color 0.1 ease;
 }
 
+.button:hover{
+    background-color: red;
+    font-size: 50px;
+    transform: scale(1.5);
+}
+
 .button:active {
     transform: scale(0.95);
+    font-size: 16px;
     background-color: #c9d636;
 }
